@@ -1,0 +1,6 @@
+{
+  "name": "Bài tập Tiếng Anh lớp 7",
+  "description": "Ứng dụng làm bài tập trắc nghiệm và điền từ môn Tiếng Anh lớp 7: Present Simple & Present Continuous.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
